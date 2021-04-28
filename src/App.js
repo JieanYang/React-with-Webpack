@@ -31,7 +31,7 @@ class App extends React.Component {
   return(
    <div>
     My App Component
-    Yang
+    Yang jiean
    </div>
   );
  }
